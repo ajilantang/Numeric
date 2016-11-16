@@ -1,14 +1,14 @@
-# Numeric
+# sumarray
 # npm-package
 
 ```
-Numeric
+sumarray
 ```
 
 # Examples  :
 
 ```
-let Num = require('Numeric')
+let Num = require('sumarray')
 
 
 console.log(Num.P(4,1)); //return 4
