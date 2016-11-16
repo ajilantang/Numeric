@@ -1,14 +1,14 @@
-# sumarray
+# nabla
 # npm-package
 
 ```
-sumarray
+nabla
 ```
 
 # Examples  :
 
 ```
-let Num = require('sumarray')
+let Num = require('nabla')
 
 
 console.log(Num.P(4,1)); //return 4
