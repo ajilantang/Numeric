@@ -1,0 +1,22 @@
+{
+  "name": "numeric",
+  "version": "1.0.0",
+  "description": "``` Numeric ```",
+  "main": "npmtest.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajilantang/Numeric.git"
+  },
+  "author": "ajilantang <ajilantang@gmail.com> (http://github.com/ajilantang)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajilantang/Numeric/issues"
+  },
+  "engine":{
+    "node" : ">=6.00"
+  },
+  "homepage": "https://github.com/ajilantang/Numeric#readme"
+}
